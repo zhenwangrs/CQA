@@ -1,2 +1,1 @@
-# ControversialQA
- 
+Here is the code for our paper **CONTROVERSIALQA: EXPLORING CONTROVERSY IN QUESTION ANSWERING** .
